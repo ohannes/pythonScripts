@@ -1,0 +1,10 @@
+Category1 : adana
+Category2 : urfa
+Category3 : antep
+Category4 : ceyhan
+Category5
+Category6
+Category7
+Category8
+Category9
+Category10 : 
